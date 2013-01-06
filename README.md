@@ -1,6 +1,6 @@
-gridwallpapers
+GridWallpapers
 ==============
 
-grid wallpaper psd, png.
+It is a wallpapers and psd for desktop.
 
-Pattern used [Subtle Patterns](http://subtlepatterns.com/).
+Some patterns using [Subtle Patterns](http://subtlepatterns.com/).
